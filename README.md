@@ -1,6 +1,7 @@
 # Daear Consulting, LLC
 
 **Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty | Geospatial Analytics | AI-Integrated Governance**
+
 We build **practical, governance-aware data systems** for Tribal Nations and mission-driven organizations. Unlike most firms that focus on policy or standards, we **turn governance principles into operational pipelines** that embed **consent, stewardship, and community control** directly into technical workflows.
 
 ### Our Core Expertise

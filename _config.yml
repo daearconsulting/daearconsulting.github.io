@@ -1,0 +1,6 @@
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+title: "Daear Consulting, LLC"
+description: "We design and implement sovereignty-aligned data infrastructure for Tribal Nations and mission-driven organizations."

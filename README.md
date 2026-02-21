@@ -22,4 +22,4 @@ We are not just policy advisors, we are **technical implementers**. Our clients 
 - **Proven experience** in both federal and Tribal contexts  
 
 ## Contact
-Interested in **sovereignty-aligned data infrastructure** or **AI-integrated governance solutions**? Reach out to us at [daearconsulting@gmail.com](mailto:daearconsulting@gmail.com) or visit our website at [www.daearconsulting.com](https://www.daearconsulting.com).
+Interested in **sovereignty-aligned data infrastructure** or **AI-integrated governance solutions**? Reach out to us at [daearconsulting@gmail.com](mailto:daearconsulting@gmail.com)

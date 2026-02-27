@@ -19,8 +19,7 @@ We build practical, governance-aware data systems for Tribal Nations and mission
 
 **We operate at the intersection of technical excellence and ethical data stewardship.**  
 
-We design and implement **governance-aware data systems** that embed consent, stewardship, and community control directly into technical architecture.  
-
+We design and implement sovereignty-aligned data infrastructure for Tribal Nations and mission-driven organizations, integrating geospatial analytics, artificial intelligence, and governance-aware metadata into operational systems.
 While many organizations develop policy frameworks, we build the operational pipelines that make those standards work.
 
 <br>

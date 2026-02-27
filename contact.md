@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Contact"
-permalink: /contact/
+title: "About Us"   # Or "Services" / "Contact"
+permalink: /about/  # Or /services/ /contact/
 ---
+
 # Contact Daear Consulting, LLC
 Interested in  **Geospatial modeling and solutions** **sovereignty-aligned data infrastructure** or **AI-integrated governance solutions**?  
 

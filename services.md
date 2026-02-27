@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Services"
 permalink: /services/
 ---
 # Our Services

@@ -2,7 +2,6 @@
 layout: single
 permalink: /about/
 ---
-# About Us
 Daear Consulting, LLC is a **technical research and implementation lab** specializing in:
 - **Tribal data sovereignty**  
 - **Geospatial analytics**  

@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: "Daear Consulting, LLC"
 permalink: /
 header:
   overlay_filter: 0.2

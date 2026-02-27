@@ -1,52 +1,32 @@
-# Site Settings
 title: "Daear Consulting, LLC"
 description: "Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty | Geospatial Analytics | AI-Integrated Governance"
-url: "https://daearconsulting.github.io" # Replace with your GitHub Pages URL
-baseurl: "" # If using a project page, set e.g., "/daear-consulting"
+url: "https://daearconsulting.github.io"
+baseurl: ""
 lang: "en-US"
 
-# Theme Settings
 remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
 
-# SEO / Metadata
+repository: "daearconsulting/daear-consulting"
+
 author:
   name: "Daear Consulting, LLC"
-  email: "email@example.com"
-  url: "https://www.daearconsulting.com"
+  email: "your@email.com"
 
-# Navigation
+minimal_mistakes_skin: "default"
+
 header_pages:
   - index.md
   - about.md
   - services.md
   - contact.md
 
-# Layout / Appearance
-theme_skin: "default" # Options: default, dark, light
-header:
-  logo:
-    text: "Daear Consulting, LLC"
-    url: "/"
-    image: "" # Optional: add a logo image path if you have one
-
-# GitHub SEO / Social
-repository: "<daearconsulting/daear-consulting"
-social:
-  email: "daearconsulting@gmail.com"
-  linkedin: "https://www.linkedin.com/in/lillyjones3/"
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-      author: "Daear Consulting, LLC"
-
-# Minimal Mistakes specific settings
-minimal_mistakes_skin: "default"
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:daearconsulting@gmail.com"

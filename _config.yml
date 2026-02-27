@@ -26,6 +26,8 @@ minimal_mistakes_skin: "default"
 
 breadcrumbs: false
 search: false
+show_date: false
+read_time: false
 
 nav:
   - title: "About"

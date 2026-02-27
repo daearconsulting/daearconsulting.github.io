@@ -8,10 +8,9 @@ We provide end-to-end design and implementation of governance-aware technical in
 
 ---
 
-### 1. Tribal Data Sovereignty Implementation
+### Tribal Data Sovereignty Implementation
 
 Design and deployment of operational systems aligned with community governance frameworks.
-
 - Consent-integrated data pipelines  
 - CARE-, OCAP®-, and community-aligned metadata architecture  
 - Data stewardship workflow integration  
@@ -19,10 +18,8 @@ Design and deployment of operational systems aligned with community governance f
 
 ---
 
-### 2. Geospatial & Remote Sensing Systems
-
+### Geospatial & Remote Sensing Systems
 Land-based data infrastructure for decision support and environmental stewardship.
-
 - Spatial data engineering  
 - Remote sensing processing pipelines  
 - Reproducible geospatial workflows  
@@ -30,10 +27,8 @@ Land-based data infrastructure for decision support and environmental stewardshi
 
 ---
 
-### 3. AI & Machine Learning Integration
-
+### AI & Machine Learning Integration
 Governance-embedded AI systems designed for transparency, accountability, and reproducibility.
-
 - Machine learning pipeline development  
 - Ethical AI integration within sovereignty frameworks  
 - Model governance and documentation systems  
@@ -41,10 +36,8 @@ Governance-embedded AI systems designed for transparency, accountability, and re
 
 ---
 
-### 4. Cloud & High-Performance Infrastructure
-
+### Cloud & High-Performance Infrastructure
 Secure, scalable, and reproducible environments for advanced data systems.
-
 - Cloud-native architecture  
 - HPC workflow optimization  
 - Infrastructure as code  
@@ -52,10 +45,8 @@ Secure, scalable, and reproducible environments for advanced data systems.
 
 ---
 
-### 5. Governance-Aware Metadata & Standards Integration
-
+### Governance-Aware Metadata & Standards Integration
 Embedding sovereignty into technical structure.
-
 - Metadata schema design aligned with CARE, OCAP®, FAIR, IEEE P2890/D1  
 - Consent-based access controls  
 - Data lifecycle governance modeling  
@@ -66,7 +57,6 @@ Embedding sovereignty into technical structure.
 ## Our Engagement Model
 
 We operate as:
-
 - Technical implementation partners  
 - Systems architects  
 - Governance-aware advisors  

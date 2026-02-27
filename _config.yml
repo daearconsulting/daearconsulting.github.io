@@ -17,7 +17,7 @@ author:
   name: "Daear Consulting, LLC"
   email: "daearconsulting@gmail.com"
 
-minimal_mistakes_skin: "default"   # change to "dark" if desired
+minimal_mistakes_skin: "default"
 
 breadcrumbs: false
 search: false
@@ -25,7 +25,6 @@ read_time: false
 show_date: false
 share: false
 
-# Use ONLY nav (not header_pages)
 nav:
   - title: "About"
     url: /about/

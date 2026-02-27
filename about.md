@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "About Daear Consulting, LLC"
 permalink: /about/
 ---
 # About Us

@@ -42,4 +42,4 @@ Interested in **sovereignty-aligned data infrastructure** or **AI-integrated gov
 📧 [Email Us](mailto:daearconsulting@gmail.com)  
 
 ## Keywords
-Tribal data sovereignty, OCAP, CARE, geospatial analytics, AI governance, machine learning pipelines, cloud infrastructure, HPC, data stewardship, governance-aware metadata, ethical data systems, Tribal Nations, mission-driven organizations
+Tribal data sovereignty, OCAP, CARE, FAIR, IEEE P2890/D1, geospatial analytics, AI governance, machine learning pipelines, cloud infrastructure, HPC, data stewardship, governance-aware metadata, ethical data systems, Tribal Nations, mission-driven organizations

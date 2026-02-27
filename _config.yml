@@ -3,58 +3,38 @@ description: "Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty 
 url: "https://daearconsulting.github.io"
 baseurl: ""
 lang: "en-US"
-logo: "/assets/images/logo.png"
 
-# Remove header_pages to avoid duplicate nav rendering
-# Minimal Mistakes will use 'nav' instead
-# header_pages:
-#   - about.md
-#   - services.md
-#   - contact.md
-
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
 
-repository: "daearconsulting/daear-consulting"
+repository: "daearconsulting/daearconsulting.github.io"
 
 author:
   name: "Daear Consulting, LLC"
   email: "daearconsulting@gmail.com"
 
-minimal_mistakes_skin: "default" # switch to "dark" for modern data lab feel
+minimal_mistakes_skin: "default"   # change to "dark" if desired
 
 breadcrumbs: false
 search: false
-show_date: false
 read_time: false
+show_date: false
 share: false
 
-# Use nav only for top navigation, not header_pages
+# Use ONLY nav (not header_pages)
 nav:
   - title: "About"
     url: /about/
   - title: "Services"
     url: /services/
-  - title: "Contact"
-    url: /contact/
   - title: "Case Studies"
     url: /case-studies/
-
-# SEO / structured data
-organization:
-  name: "Daear Consulting, LLC"
-  url: "https://daearconsulting.github.io"
-  logo: "/assets/images/logo.png"
-  type: "Organization"
-
-social:
-  name: "Daear Consulting, LLC"
-  links:
-    - https://www.linkedin.com/in/lillyjones3/
+  - title: "Contact"
+    url: /contact/
 
 footer:
   links:

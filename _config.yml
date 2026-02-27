@@ -34,6 +34,8 @@ nav:
     url: /services/
   - title: "Contact"
     url: /contact/
+  - title: "Case Studies"
+    url: /case-studies/
 
 footer:
   links:

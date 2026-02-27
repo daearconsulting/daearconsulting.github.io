@@ -1,7 +1,7 @@
 # Site Settings
 title: "Daear Consulting, LLC"
 description: "Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty | Geospatial Analytics | AI-Integrated Governance"
-url: "https://<your-github-username>.github.io" # Replace with your GitHub Pages URL
+url: "https://daearconsulting.github.io" # Replace with your GitHub Pages URL
 baseurl: "" # If using a project page, set e.g., "/daear-consulting"
 lang: "en-US"
 

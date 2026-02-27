@@ -13,7 +13,6 @@ header:
       url: "/about/"
 ---
 
-## Geospatial Workflows, Pipelines, Analytics, and Visualizations
 ## Sovereignty-Aligned Data Infrastructure
 ### Governance-Embedded Geospatial & AI Systems for Tribal Nations and Mission-Driven Organizations
 

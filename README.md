@@ -18,7 +18,7 @@ We build **practical, governance-aware data systems** for Tribal Nations and mis
 ## About Us
 Daear Consulting, LLC is a technical research and implementation lab specializing in **Tribal data sovereignty**, **geospatial analytics**, and **AI-integrated governance systems**. We transform standards and policy frameworks into **operational pipelines** that embed **consent, governance, and ethical stewardship** directly into technical workflows.
 
-Our team bridges **geospatial science**, **cloud/HPC infrastructure**, **AI/ML systems**, and **governance-aware metadata**, ensuring that **OCAP®**, **CARE**, and community-defined data protocols are operationalized effectively.
+Our team bridges **geospatial science**, **cloud/HPC infrastructure**, **AI/ML systems**, and **governance-aware metadata**, ensuring that **OCAP®**, **CARE**, FAIR, IEEE P2890/D1 and community-defined data protocols are operationalized effectively.
 
 ## Services
 - **Tribal Data Sovereignty Implementation** – Building systems that respect community governance and consent  

@@ -1,7 +1,8 @@
+---
 layout: single
 title: "Daear Consulting, LLC"
 permalink: /
-
+---
 # Daear Consulting, LLC
 **Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty | Geospatial Analytics | AI-Integrated Governance**
 

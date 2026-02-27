@@ -10,12 +10,15 @@ header:
 
 We build practical, governance-aware data systems for Tribal Nations and mission-driven organizations. Unlike most firms that focus on policy or standards, we turn governance principles into operational pipelines that embed consent, stewardship, and community control directly into technical workflows.
 
-### Our Core Expertise
-- **Tribal Data Sovereignty Implementation** – Respecting community governance in every system  
-- **Geospatial & Remote Sensing Analytics** – Land-based data systems and spatial intelligence  
-- **AI/ML Integration** – Machine learning pipelines built with governance in mind  
-- **Cloud & HPC Infrastructure** – Scalable, reproducible, and secure systems  
-- **Governance-Aware Metadata** – Aligned with OCAP®, CARE, FAIR, IEEEP2890/D1 and community-defined protocols  
+## Technical Capabilities
+Our technical expertise includes:
+- Tribal data sovereignty implementation - Respecting community governance in every system 
+- Governance-aware metadata systems (CARE, OCAP®, FAIR)  
+- Geospatial data engineering and remote sensing - Land-based data systems and spatial intelligence 
+- AI/ML pipeline development - Machine learning pipelines built with governance in mind
+- Cloud-native and high-performance computing infrastructure - Scalable, reproducible, and secure systems
+- Data stewardship architecture  
+- Ethical AI governance frameworks  
 
 **We operate at the intersection of technical excellence and ethical data stewardship.**  
 

@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Services"
-permalink: /services/
+title: "About Us"   # Or "Services" / "Contact"
+permalink: /about/  # Or /services/ /contact/
 ---
+
 ## Sovereignty-Aligned Systems Implementation
 We provide end-to-end design and implementation of governance-aware technical infrastructure.
 

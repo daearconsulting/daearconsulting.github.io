@@ -1,35 +1,59 @@
 ---
 ---
-$primary-color: #1f3d2b;   // deep forest green
-$link-color: #2e4057;      // slate blue
-$background-color: #f7f5f2; // warm off-white
 
 @import "minimal-mistakes";
 
----
----
+/* Accent Color Variable */
+$accent-color: #2F6F73;
 
-@import "minimal-mistakes";
-
-/* Increase headline weight */
-.page__title {
+/* Headings */
+h1, h2 {
   font-weight: 600;
   letter-spacing: 0.5px;
 }
 
-/* Make section headings stronger */
-h2 {
-  font-weight: 600;
-  margin-top: 2.5rem;
-}
-
 h3 {
   font-weight: 500;
-  color: #2e4057;
+  opacity: 0.9;
 }
 
-/* Improve paragraph readability */
+/* Body rhythm */
 .page__content p {
   font-size: 1.1rem;
-  line-height: 1.7;
+  line-height: 1.75;
+}
+
+/* Links */
+a {
+  color: $accent-color;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Buttons */
+.btn,
+.btn--primary {
+  background-color: $accent-color;
+  border-color: $accent-color;
+}
+
+.btn--primary:hover {
+  opacity: 0.85;
+}
+
+/* Subtle divider accent */
+hr {
+  border: 0;
+  height: 1px;
+  background: rgba(47, 111, 115, 0.4);
+  margin: 2em 0;
+}
+
+/* Navigation subtle refinement */
+.masthead__menu-item a {
+  font-weight: 500;
+  letter-spacing: 0.5px;
 }

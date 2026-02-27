@@ -2,8 +2,16 @@
 layout: splash
 permalink: /
 header:
-  overlay_filter: 0.15
+  overlay_color: "#1f3d2b"
+  overlay_filter: 0.25
+  caption: "Sovereignty-Aligned Data Infrastructure"
+  actions:
+    - label: "Explore Services"
+      url: "/services/"
+    - label: "Our Approach"
+      url: "/about/"
 ---
+
 ## Geospatial Workflows, Pipelines, Analytics, and Visualizations
 ## Sovereignty-Aligned Data Infrastructure
 ### Governance-Embedded Geospatial & AI Systems for Tribal Nations and Mission-Driven Organizations

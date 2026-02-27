@@ -16,5 +16,5 @@ We build practical, governance-aware data systems for Tribal Nations and mission
 - **Governance-Aware Metadata** – Aligned with OCAP®, CARE, FAIR, IEEEP2890/D1 and community-defined protocols  
 
 **We operate at the intersection of technical excellence and ethical data stewardship.**  
-[Learn More About Us](/about/)
-[View Our Services](/services/)
+[Learn More About Us  ](/about/)  
+[View Our Services  ](/services/)

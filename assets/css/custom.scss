@@ -5,3 +5,31 @@ $link-color: #2e4057;      // slate blue
 $background-color: #f7f5f2; // warm off-white
 
 @import "minimal-mistakes";
+
+---
+---
+
+@import "minimal-mistakes";
+
+/* Increase headline weight */
+.page__title {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Make section headings stronger */
+h2 {
+  font-weight: 600;
+  margin-top: 2.5rem;
+}
+
+h3 {
+  font-weight: 500;
+  color: #2e4057;
+}
+
+/* Improve paragraph readability */
+.page__content p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}

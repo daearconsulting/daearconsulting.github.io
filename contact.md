@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Contact Us" 
+title: "Contact" 
 ---
 
 # Contact Daear Consulting, LLC

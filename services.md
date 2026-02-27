@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "About Us"   # Or "Services" / "Contact"
-permalink: /about/  # Or /services/ /contact/
+title: "Services"
 ---
 
 ## Sovereignty-Aligned Systems Implementation

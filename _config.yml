@@ -3,7 +3,12 @@ description: "Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty 
 url: "https://daearconsulting.github.io"
 baseurl: ""
 lang: "en-US"
+logo: "/assets/images/logo.png" # optional but helps SEO preview cards
 
+social:
+  name: "Daear Consulting, LLC"
+  links:
+    - https://www.linkedin.com/in/lillyjones3/
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:

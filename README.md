@@ -28,7 +28,7 @@ Our team bridges **geospatial science**, **cloud/HPC infrastructure**, **AI/ML s
 - **Governance-Aware Metadata Systems** – CARE, OCAP®, and community-aligned data models  
 
 ## Why Choose Daear Consulting
-We are not just policy advisors — we are **technical implementers**. Our clients benefit from:
+We are not just policy advisors, we are **technical implementers**. Our clients benefit from:
 
 - **Deep technical expertise** in data pipelines and infrastructure  
 - **Governance-aware system design** aligned with Tribal and federal requirements  

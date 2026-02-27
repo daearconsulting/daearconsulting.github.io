@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "About Us"   # Or "Services" / "Contact"
-permalink: /about/  # Or /services/ /contact/
+title: "About Us"
 ---
 
 Daear Consulting, LLC is a **technical research and implementation lab** specializing in:

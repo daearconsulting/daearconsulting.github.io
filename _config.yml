@@ -15,15 +15,20 @@ repository: "daearconsulting/daear-consulting"
 
 author:
   name: "Daear Consulting, LLC"
-  email: "your@email.com"
+  email: "daearconsulting@gmail.com"
 
 minimal_mistakes_skin: "default"
 
-header_pages:
-  - index.md
-  - about.md
-  - services.md
-  - contact.md
+breadcrumbs: false
+search: false
+
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Contact"
+    url: /contact/
 
 footer:
   links:

@@ -2,9 +2,11 @@
 layout: splash
 permalink: /
 header:
-  overlay_filter: 0.2
+  overlay_filter: 0.15
 ---
-### Tribal Sovereignty-Aligned Data Infrastructure | Geospatial Analytics | AI-Integrated Governance
+## Geospatial Workflows, Pipelines, Analytics, and Visualizations
+## Sovereignty-Aligned Data Infrastructure
+### Governance-Embedded Geospatial & AI Systems for Tribal Nations and Mission-Driven Organizations
 
 We build practical, governance-aware data systems for Tribal Nations and mission-driven organizations. Unlike most firms that focus on policy or standards, we turn governance principles into operational pipelines that embed consent, stewardship, and community control directly into technical workflows.
 
@@ -16,5 +18,12 @@ We build practical, governance-aware data systems for Tribal Nations and mission
 - **Governance-Aware Metadata** – Aligned with OCAP®, CARE, FAIR, IEEEP2890/D1 and community-defined protocols  
 
 **We operate at the intersection of technical excellence and ethical data stewardship.**  
-[Learn More About Us  ](/about/)  
-[View Our Services  ](/services/)
+
+We design and implement **governance-aware data systems** that embed consent, stewardship, and community control directly into technical architecture.  
+
+While many organizations develop policy frameworks, we build the operational pipelines that make those standards work.
+
+<br>
+
+[Explore Our Services  ](/services/)  
+[Learn About Our Approach  ](/about/)

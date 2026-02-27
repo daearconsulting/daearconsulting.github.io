@@ -37,6 +37,12 @@ nav:
   - title: "Case Studies"
     url: /case-studies/
 
+organization:
+  name: "Daear Consulting, LLC"
+  url: "https://daearconsulting.github.io"
+  logo: "/assets/images/logo.png"
+  type: "Organization"
+  
 footer:
   links:
     - label: "Email"

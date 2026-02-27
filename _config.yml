@@ -4,6 +4,7 @@ url: "https://daearconsulting.github.io"
 baseurl: ""
 lang: "en-US"
 logo: "/assets/images/logo.png" # optional but helps SEO preview cards
+minimal_mistakes_skin: "default"
 
 social:
   name: "Daear Consulting, LLC"

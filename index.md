@@ -1,7 +1,9 @@
 ---
-layout: single
+layout: splash
 title: "Daear Consulting, LLC"
 permalink: /
+header:
+  overlay_filter: 0.2
 ---
 Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty | Geospatial Analytics | AI-Integrated Governance
 

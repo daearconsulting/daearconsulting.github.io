@@ -1,6 +1,7 @@
 ---
-layout: single
-title: "Contact" 
+layout: splash
+permalink: /contact/
+title: "Contact"
 ---
 
 # Contact Daear Consulting, LLC

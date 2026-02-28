@@ -25,16 +25,6 @@ read_time: false
 show_date: false
 share: false
 
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Services"
-    url: /services/
-  - title: "Case Studies"
-    url: /case-studies/
-  - title: "Contact"
-    url: /contact/
-
 footer:
   links:
     - label: "Email"

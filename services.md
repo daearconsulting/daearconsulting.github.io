@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: splash
+permalink: /services/
 title: "Services"
 ---
 

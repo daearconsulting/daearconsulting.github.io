@@ -1,6 +1,7 @@
 ---
-layout: single
-title: "About Us"
+layout: splash
+permalink: /about/
+title: "About"
 ---
 
 Daear Consulting, LLC is a **technical research and implementation lab** specializing in:

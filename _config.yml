@@ -18,7 +18,9 @@ author:
   email: "daearconsulting@gmail.com"
 
 minimal_mistakes_skin: "default"
-
+include:
+  - _pages
+  
 breadcrumbs: false
 search: false
 read_time: false

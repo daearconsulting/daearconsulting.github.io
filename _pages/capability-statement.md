@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Capability Statement"
+permalink: /capability-statement/
+---
+
 # Daear Consulting, LLC
 ## Sovereignty-Aligned Data Infrastructure & AI Systems
 
@@ -76,3 +82,4 @@ We are technical implementers with deep geospatial and AI expertise, capable of 
 ---
 
 *Daear Consulting, LLC — Bridging governance principles and operational infrastructure.*
+
